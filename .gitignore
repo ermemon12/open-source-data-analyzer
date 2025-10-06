@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit temp files
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PDF / temp files
+*.pdf
+*.png
+*.tmp
