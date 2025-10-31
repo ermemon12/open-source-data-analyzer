@@ -87,3 +87,22 @@
 ### Run the app
 
     streamlit run app.py
+
+### 🤝 Contributing
+
+We welcome contributions from everyone!
+See the CONTRIBUTING.md
+ file for setup instructions and contribution guidelines.
+
+### 🪪 License
+
+This project is licensed under the MIT License
+.
+
+🌟 Acknowledgements
+
+Open-source community ❤️
+
+Contributors and testers
+
+Data scientists and developers who support collaborative innovation
